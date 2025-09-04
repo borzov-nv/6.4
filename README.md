@@ -104,5 +104,3 @@
 
 ![alt text](https://github.com/borzov-nv/6.4/blob/main/docker-rm.PNG)
 
-ия сценария.
-2. Как вы думаете зачем может понадобиться такой способ развертывания?
